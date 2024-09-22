@@ -1,5 +1,8 @@
-nginx
-#支持私库
-opengrok/docker
-#支持指定架构
+# 模板一
+xhofe/alist:latest
+
+# 模板二
 --platform=linux/arm64 xiaoyaliu/alist
+
+# 模板三
+opengrok/docker
